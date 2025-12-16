@@ -10,7 +10,7 @@ AI NFT Generator uses Stable Diffusion for prompt-based image creation and mints
 - One-click minting of generated images as NFTs on Ethereum. [web:93]  
 - Web3 wallet connection (MetaMask) for signing and sending transactions. [web:95]  
 - Basic gas usage optimization and status feedback during minting. [web:93]  
- 
+  
 ---
  
 ## 🛠 Tech Stack
