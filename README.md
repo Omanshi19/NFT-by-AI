@@ -15,18 +15,18 @@ AI NFT Generator uses Stable Diffusion for prompt-based image creation and mints
  
 ## 🛠 Tech Stack
 
-- **Frontend:** React, CSS (or Tailwind/your choice) [web:95]  
-- **Smart Contracts:** Solidity, Hardhat/Truffle for compilation & deployment [web:90]  
-- **Web3:** Ethers.js or Web3.js for blockchain interaction [web:95]  
-- **AI:** Stable Diffusion (via API like Replicate/Hugging Face or your own backend) [web:96]  
+- **Frontend:** React, CSS (or Tailwind/your choice) 
+- **Smart Contracts:** Solidity, Hardhat/Truffle for compilation & deployment 
+- **Web3:** Ethers.js or Web3.js for blockchain interaction.
+- **AI:** Stable Diffusion (via API like Replicate/Hugging Face or your own backend)
 
 ---
 ## 🔮 Possible Improvements
 
-- Add gallery view of all minted NFTs for the connected address. [web:91]  
-- Add on-chain/off-chain prompt + seed storage for reproducibility. [web:88]  
-- Integrate gas estimation and better error handling for failed mints. [web:97]  
-- Support multiple networks (Polygon, Base, etc.) via a network selector. [web:91]  
+- Add gallery view of all minted NFTs for the connected address. 
+- Add on-chain/off-chain prompt + seed storage for reproducibility. 
+- Integrate gas estimation and better error handling for failed mints.  
+- Support multiple networks (Polygon, Base, etc.) via a network selector.
 
 ---
 
