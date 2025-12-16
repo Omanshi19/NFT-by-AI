@@ -12,7 +12,7 @@ AI NFT Generator uses Stable Diffusion for prompt-based image creation and mints
 - Basic gas usage optimization and status feedback during minting. [web:93]  
  
 ---
-
+ 
 ## 🛠 Tech Stack
 
 - **Frontend:** React, CSS (or Tailwind/your choice) [web:95]  
