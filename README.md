@@ -4,7 +4,7 @@ AI NFT Generator uses Stable Diffusion for prompt-based image creation and mints
  
 ---
 
-## 🚀 Features 
+## 🚀 Features  
 
 - Prompt-based AI image generation using Stable Diffusion (or compatible image generation API). [web:96]  
 - One-click minting of generated images as NFTs on Ethereum. [web:93]  
