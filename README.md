@@ -32,6 +32,6 @@ AI NFT Generator uses Stable Diffusion for prompt-based image creation and mints
 
 ## 🧑‍💻 Author
 
-Built by **Omanshi Kaushal** – MERN Stack Developer, ML/DL practitioner, and Blockchain enthusiast. [memory:9]  
+Built by **Omanshi Kaushal** – MERN Stack Developer, ML/DL practitioner, and Blockchain enthusiast.
 
 If you like this project, consider ⭐ starring the repo and opening issues/PRs for ideas or bugs!
