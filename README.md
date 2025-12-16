@@ -1,43 +1,37 @@
-# AI NFT Generator
+# NFT by AI 🎨🤖
 
-## Technology Stack & Tools
+AI NFT Generator uses Stable Diffusion for prompt-based image creation and mints the generated images as NFTs on Ethereum using React and Solidity smart contracts. This project integrates AI image APIs, Web3 wallet connections, and basic gas optimization, making it a solid intermediate-level Web3 + AI project. [web:96][web:95]
 
-- Solidity (Writing Smart Contracts & Tests)
-- Javascript (React & Testing)
-- [Hardhat](https://hardhat.org/) (Development Framework)
-- [Ethers.js](https://docs.ethers.io/v5/) (Blockchain Interaction)
-- [React.js](https://reactjs.org/) (Frontend Framework)
-- [NFT.Storage](https://nft.storage/) (Connection to IPFS)
-- [Hugging Face](https://huggingface.co/) (AI Models)
+---
 
-## Requirements For Initial Setup
-- Install [NodeJS](https://nodejs.org/en/)
+## 🚀 Features
 
-## Setting Up
-### 1. Clone/Download the Repository
+- Prompt-based AI image generation using Stable Diffusion (or compatible image generation API). [web:96]  
+- One-click minting of generated images as NFTs on Ethereum. [web:93]  
+- Web3 wallet connection (MetaMask) for signing and sending transactions. [web:95]  
+- Basic gas usage optimization and status feedback during minting. [web:93]  
 
-### 2. Install Dependencies:
-`$ npm install`
+---
 
-### 3. Setup .env file:
-Before running any scripts, you'll want to create a .env file with the following values (see .env.example):
+## 🛠 Tech Stack
 
-- **REACT_APP_HUGGING_FACE_API_KEY=""**
-- **REACT_APP_NFT_STORAGE_API_KEY=""**
+- **Frontend:** React, CSS (or Tailwind/your choice) [web:95]  
+- **Smart Contracts:** Solidity, Hardhat/Truffle for compilation & deployment [web:90]  
+- **Web3:** Ethers.js or Web3.js for blockchain interaction [web:95]  
+- **AI:** Stable Diffusion (via API like Replicate/Hugging Face or your own backend) [web:96]  
 
-You'll need to create an account on [Hugging Face](https://huggingface.co/), visit your profile settings, and create a read access token. 
+---
+## 🔮 Possible Improvements
 
-You'll also need to create an account on [NFT.Storage](https://nft.storage/), and create a new API key.
+- Add gallery view of all minted NFTs for the connected address. [web:91]  
+- Add on-chain/off-chain prompt + seed storage for reproducibility. [web:88]  
+- Integrate gas estimation and better error handling for failed mints. [web:97]  
+- Support multiple networks (Polygon, Base, etc.) via a network selector. [web:91]  
 
-### 4. Run tests
-`$ npx hardhat test`
+---
 
-### 5. Start Hardhat node
-`$ npx hardhat node`
+## 🧑‍💻 Author
 
-### 6. Run deployment script
-In a separate terminal execute:
-`$ npx hardhat run ./scripts/deploy.js --network localhost`
+Built by **Omanshi Kaushal** – MERN Stack Developer, ML/DL practitioner, and Blockchain enthusiast. [memory:9]  
 
-### 7. Start frontend
-`$ npm run start`
+If you like this project, consider ⭐ starring the repo and opening issues/PRs for ideas or bugs!
