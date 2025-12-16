@@ -1,6 +1,6 @@
 # NFT by AI 🎨🤖
 
-AI NFT Generator uses Stable Diffusion for prompt-based image creation and mints the generated images as NFTs on Ethereum using React and Solidity smart contracts. This project integrates AI image APIs, Web3 wallet connections, and basic gas optimization, making it a solid intermediate-level Web3 + AI project. [web:96][web:95]
+AI NFT Generator uses Stable Diffusion for prompt-based image creation and mints the generated images as NFTs on Ethereum using React and Solidity smart contracts. This project integrates AI image APIs, Web3 wallet connections, and basic gas optimization, making it a solid intermediate-level Web3 + AI project. 
  
 --- 
    
