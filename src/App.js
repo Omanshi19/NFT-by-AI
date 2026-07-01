@@ -10,7 +10,7 @@ import Navigation from './components/Navigation';
 
 // ABIs
 import NFT from './abis/NFT.json'
-
+ 
 // Config
 import config from './config.json';
 
